@@ -61,7 +61,7 @@
         <chapter title="Cloudflare" id="clf" collapsible="true" default-state="collapsed">
             <p>
                 <control>域</control>
-                oww.projcora.club,openwearwiki.pages.dev
+                oww-cf.projcora.club,openwearwiki.pages.dev
             </p>
             <p>
                 <control>Web Analytics</control>
