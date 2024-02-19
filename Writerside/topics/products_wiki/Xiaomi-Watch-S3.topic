@@ -8,9 +8,14 @@
         Xiaomi Watch S3
     </link-summary>
     <p>
-        <control><a anchor="authors">贡献者</a> <a anchor="versionLogs">更新日志</a>
+        <control>
+            <a anchor="authors">贡献者</a>
+            <a anchor="versionLogs">更新日志</a>
         </control>
     </p>
+    <tip>
+        标准名称:Xiaomi Watch S3; Xiaomi手表S3.
+    </tip>
     <chapter title="Gallery" id="gallery" collapsible="true" default-state="expanded">
         <img alt="银色" src="xmwts3_white.png" thumbnail="true"/>
         <img alt="黑色" src="xmwts3_black.png" thumbnail="true"/>
@@ -40,7 +45,7 @@
                 <td>47mm × 47mm × 12mm</td>
             </tr>
             <tr>
-                <td>尺寸</td>
+                <td>重量</td>
                 <td>44g（不含表带）</td>
             </tr>
             <tr>
@@ -49,7 +54,7 @@
             </tr>
             <tr>
                 <td>平台</td>
-                <td>(仅猜测)BES2700P搭配紫光低功耗LTE解决方案(eSIM版)</td>
+                <td>(仅猜测)BES2700P搭配紫光低功耗LTE解决方案W117(eSIM版)</td>
             </tr>
             <tr>
                 <td>操作系统</td>
